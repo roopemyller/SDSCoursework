@@ -57,7 +57,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/dist/img/roopePortrait.jpg");
+      background: url("../img/roopePortrait.jpg");
       border-radius: 50%;
       border: solid 3px #1aeaee; }
   .menu .nav-item {
@@ -103,7 +103,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(/dist/img/shellAlone-1.jpg);
+    background: url(../img/shellAlone-1.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
